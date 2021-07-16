@@ -1,3 +1,3 @@
 # Deep Microlocal Reconstruction
 
-Dee Microlocal Reconstruction code and experiments.
+Deep Microlocal Reconstruction code and experiments.
