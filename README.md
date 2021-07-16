@@ -1,2 +1,2 @@
-# DeepMicrolocalReconstruction
-Dee Microlocal Reconstruction code and experiments
+#Deep Microlocal Reconstruction
+Dee Microlocal Reconstruction code and experiments.
