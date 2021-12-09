@@ -1,7 +1,7 @@
 # Deep Microlocal Reconstruction
 By H. Andrade-Loarca, G. Kutyniok, O. Öktem, P. Petersen
 
-<img src="media/DeepMicroRecon.png" width="500" alt="Architecture" class="center">
+<img src="media/DeepMicroRecon.png" width="800" alt="Architecture" class="center">
 
 
 ### License
