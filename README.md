@@ -6,7 +6,7 @@ By H. Andrade-Loarca, G. Kutyniok, O. Öktem, P. Petersen
 
 ### License
 
-DeNSE is released under the MIT License (refer to the LICENSE file for details).
+This code is released under the MIT License (refer to the LICENSE file for details).
 
 ### Contents
 0. [Introduction](#introduction)
